@@ -2,6 +2,8 @@
 
 A command-line tool for managing personal finances. This project provides functionalities to add, modify, delete transactions, view logs, generate reports, and visualize financial data. It uses Python with pandas for data manipulation, matplotlib for plotting, and includes a logging system to track changes and errors.
 
+When trying out the application, you can delete the CSV files or keep it.
+
 ## Features
 
 - **Add Transactions**: Easily add new transactions with details including date, amount, category, and description.
