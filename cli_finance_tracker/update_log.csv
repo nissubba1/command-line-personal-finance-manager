@@ -1,0 +1,5 @@
+timestamp,transaction_id,update_type,field_update,success,old_value,new_value
+09-14-2024 05:39:52 PM,1,updated,date,True,01-01-2024,02-01-2024
+09-14-2024 08:27:19 PM,1,updated,date,True,02-01-2024,01-02-2024
+09-14-2024 08:27:35 PM,1,updated,category,True,Income,Expense
+09-14-2024 08:51:33 PM,1,updated,amount,True,320.0,450.0

@@ -1,0 +1,3 @@
+timestamp,transaction_id,update_type,message,success,del_record_date,del_record_category,del_record_amount,del_record_description
+09-14-2024 05:40:12 PM,2,deleted,Deleted entry,True,09-14-2024,Expense,879.0,Food
+09-14-2024 08:51:41 PM,5,deleted,Deleted entry,True,01-02-2024,Income,343.0,Sold

@@ -1,0 +1,7 @@
+timestamp,transaction_id,update_type,success,message
+09-14-2024 05:37:47 PM,1,New Entry,True,Entry added
+09-14-2024 05:38:16 PM,2,New Entry,True,Entry added
+09-14-2024 05:38:49 PM,3,New Entry,True,Entry added
+09-14-2024 08:26:51 PM,4,New Entry,True,Entry added
+09-14-2024 08:32:53 PM,5,New Entry,True,Entry added
+09-14-2024 08:47:06 PM,6,New Entry,True,Entry added

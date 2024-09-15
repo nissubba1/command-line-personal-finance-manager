@@ -1,0 +1,50 @@
+transaction_id,date,category,amount,description
+1,01-02-2024,Expense,450.0,Food
+2,01-02-2024,Expense,500.0,Food
+3,01-01-2024,Income,234.0,Side Gig
+4,01-03-2024,Income,435.0,Salary
+6,01-04-2024,Expense,150.0,Utilities
+7,01-05-2024,Expense,250.0,Entertainment
+8,01-06-2024,Income,400.0,Freelance
+9,01-07-2024,Expense,220.0,Travel
+10,01-08-2024,Income,350.0,Bonus
+11,01-09-2024,Expense,180.0,Books
+12,01-10-2024,Income,270.0,Investment
+13,01-11-2024,Expense,300.0,Clothing
+14,01-12-2024,Income,500.0,Consulting
+15,01-13-2024,Expense,230.0,Groceries
+16,01-14-2024,Income,410.0,Commission
+17,01-15-2024,Expense,160.0,Medical
+18,01-16-2024,Income,370.0,Dividend
+19,01-17-2024,Expense,210.0,Restaurant
+20,01-18-2024,Income,460.0,Sales
+21,01-19-2024,Expense,270.0,Internet
+22,01-20-2024,Income,320.0,Side Project
+23,01-21-2024,Expense,190.0,Subscription
+24,01-22-2024,Income,430.0,Part-time Job
+25,01-23-2024,Expense,250.0,Parking
+26,01-24-2024,Income,280.0,Gift
+27,01-25-2024,Expense,340.0,Repair
+28,01-26-2024,Income,390.0,Rental Income
+29,01-27-2024,Expense,220.0,Household
+30,01-28-2024,Income,450.0,Online Sales
+31,01-29-2024,Expense,300.0,Movies
+32,01-30-2024,Income,310.0,Web Development
+33,01-31-2024,Expense,180.0,Phone Bill
+34,02-01-2024,Income,420.0,Affiliate Marketing
+35,02-02-2024,Expense,260.0,Groceries
+36,02-03-2024,Income,330.0,Design Work
+37,02-04-2024,Expense,200.0,Healthcare
+38,02-05-2024,Income,370.0,Webinars
+39,02-06-2024,Expense,240.0,Utilities
+40,02-07-2024,Income,380.0,Consulting
+41,02-08-2024,Expense,220.0,Travel
+42,02-09-2024,Income,450.0,Online Courses
+43,02-10-2024,Expense,280.0,Entertainment
+44,02-11-2024,Income,400.0,Freelance
+45,02-12-2024,Expense,230.0,Medical
+46,02-13-2024,Income,390.0,Investments
+47,02-14-2024,Expense,210.0,Clothing
+48,02-15-2024,Income,430.0,Salary
+49,02-16-2024,Expense,190.0,Books
+50,02-17-2024,Income,350.0,Side Gig
